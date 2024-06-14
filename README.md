@@ -4,5 +4,5 @@
   Showcase
 </p>
 <p align="center">
-  <img src="https://github.com/Lawliet47/Personal-HomePage/blob/main/Screenshot%202024-06-13%20at%2000.04.23.png?raw=true" width="100%" align="center" >
+  <img src="https://github.com/Lawliet47/Obsidian-Programming-Notes/blob/main/Screenshot%202024-06-14%20at%2020.54.00.png?raw=true" width="100%" align="center" >
 </p>
